@@ -1,0 +1,18 @@
+button {
+    margin: auto;
+    display: block;
+}
+
+iframe {
+    margin: auto;
+    display: block;
+    border-style: solid;
+    border-color: red
+}
+
+video {
+    margin: auto;
+    display: block;
+    border-style: solid;
+    border-color: red
+}
